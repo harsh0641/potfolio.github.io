@@ -109,6 +109,8 @@
 /* About  */
 
 .about img {
+    height: 500px;
+    width: 1000px;
 
     -webkit-box-shadow: 6px 4px 29px -24px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 6px 4px 29px -24px rgba(0, 0, 0, 0.75);
