@@ -1,9 +1,13 @@
+/* HTML  */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
 }
+
+ /* Navbar */
 
 .navbar-nav {
     margin-left: auto;
@@ -101,6 +105,8 @@
     color: #fff;
 
 }
+
+/* About  */
 
 .about img {
 
@@ -222,7 +228,7 @@
 }
 
 
-
+/* Animation  */
 
 @keyframes load1 {
     0% {
@@ -263,6 +269,8 @@
         width: 65%;
     }
 }
+
+/* Service  */
 
 .services-head {
     font-size: 2.5rem;
@@ -342,6 +350,7 @@ input[type=email] {
     color: rgb(80, 80, 80);
 }
 
+/* Media query */
 
 @media (max-width:1400px) {
     .hello {
